@@ -1,0 +1,4 @@
+upstream=https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+archive=clang-r416183b.tar.gz
+commit=06a71ddac05c22edb2d10b590e1769b3f8619bef
+branch=clang-r416183b
